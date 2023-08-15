@@ -1,0 +1,254 @@
+{
+    "cards": [
+        {
+            "correctCount": 0,
+            "wrongCount": 0,
+            "back": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Back 1",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            },
+            "state": false,
+            "front": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Front 1",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            }
+        },
+        {
+            "correctCount": 0,
+            "wrongCount": 0,
+            "back": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Back 2",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            },
+            "state": false,
+            "front": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Front 2",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            }
+        },
+        {
+            "correctCount": 0,
+            "wrongCount": 0,
+            "back": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Back 3",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            },
+            "state": false,
+            "front": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Front 3",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            }
+        },
+        {
+            "correctCount": 0,
+            "wrongCount": 0,
+            "back": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Back 4",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            },
+            "state": false,
+            "front": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Front 4",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            }
+        },
+        {
+            "correctCount": 0,
+            "wrongCount": 0,
+            "back": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Back 5",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            },
+            "state": false,
+            "front": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Front 5",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            }
+        },
+        {
+            "correctCount": 0,
+            "wrongCount": 0,
+            "back": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Back 6",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            },
+            "state": false,
+            "front": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Front 6",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            }
+        },
+        {
+            "correctCount": 0,
+            "wrongCount": 0,
+            "back": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Back 7",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            },
+            "state": false,
+            "front": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Front 7",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            }
+        },
+        {
+            "correctCount": 0,
+            "wrongCount": 0,
+            "back": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Back 8",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            },
+            "state": false,
+            "front": {
+                "backgroundColor": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255
+                },
+                "content": "Set 1 Front 8",
+                "fontColor": {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0
+                }
+            }
+        }
+    ],
+    "title": "Card set 1",
+    "usecount": 0
+}
